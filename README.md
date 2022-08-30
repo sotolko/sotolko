@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomáš</h1>
 <h3 align="center">A passionate developer from Slovakia</h3>
 
-- 🔭 I’m currently working on **CS:GO Skin sniper**
+- 🔭 I’m currently working on **<a href="https://github.com/sotolko/csgo-market-sniper">CS:GO Market sniper</a>**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python with selenium**
 
 - 📫 How to reach me **tomaslenart32@gmail.com**
 
